@@ -38,7 +38,7 @@ npm install
 
 ### Step 6: Create Environment File
 
-Create `.env` in project root:
+Create `.env` in project root (inside the cloudinary-demo folder):
 
 ```env
 VITE_CLOUDINARY_CLOUD_NAME=your-cloud-name
